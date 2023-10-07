@@ -15,7 +15,7 @@
 [CodeGenius](https://github.com/FE-CodeGenius/CodeGenius)
 
 ## 插件化模块：
-[codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin)
-[codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin)
-[codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin)
-[codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin)
+1. [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin)
+2. [codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin)
+3. [codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin)
+4. [codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin)
