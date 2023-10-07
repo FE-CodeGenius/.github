@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+这是一个旨在帮助开发者轻松管理优质代码的命令行开发包
+
 <!--
 
 **Here are some ideas to get you started:**
