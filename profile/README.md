@@ -16,3 +16,8 @@
 | [codegenius-git-user-plugin](https://github.com/FE-CodeGenius/codegenius-git-user-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fgit-user-plugin.svg)](https://www.npmjs.com/package/@codegenius/git-user-plugin) | 设置或校验 git user 信息是否规范 |
 | [codegenius-registry-plugin](https://github.com/FE-CodeGenius/codegenius-registry-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fregistry-plugin.svg)](https://www.npmjs.com/package/@codegenius/registry-plugin) | 切换 NPM 镜像地址 |
 | [codegenius-hooks-plugin](https://github.com/FE-CodeGenius/codegenius-hooks-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fhooks-plugin.svg)](https://www.npmjs.com/package/@codegenius/hooks-plugin) | 新增或修改 simple-git-hooks 配置后需要重新初始化 |
+| [codegenius-verify-plugin](https://github.com/FE-CodeGenius/codegenius-verify-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fverify-plugin.svg)](https://www.npmjs.com/package/@codegenius/verify-plugin) | 校验 COMMIT_EDITMSG 中的信息是否符合 Angualr 规范 |
+| [codegenius-template-plugin](https://github.com/FE-CodeGenius/codegenius-template-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Ftemplate-plugin.svg)](https://www.npmjs.com/package/@codegenius/template-plugin) | 运行 cg 生成 CodeGenius 内置模板项目 |
+| [codegenius-format-plugin](https://github.com/FE-CodeGenius/codegenius-format-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fformat-plugin.svg)](https://www.npmjs.com/package/@codegenius/format-plugin) | 运行 prettier 格式化代码风格 |
+| [codegenius-impsort-plugin](https://github.com/FE-CodeGenius/codegenius-impsort-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fimpsort-plugin.svg)](https://www.npmjs.com/package/@codegenius/impsort-plugin) | 运行 eslint 对模块导入进行分组&按字母排序 |
+
