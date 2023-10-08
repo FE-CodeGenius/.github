@@ -6,13 +6,13 @@
 |---|---|
 | [code-genius](https://github.com/FE-CodeGenius/code-genius) | [![npm](https://img.shields.io/npm/v/code-genius.svg)](https://www.npmjs.com/package/code-genius) |
 
-| 插件化模块 | 最新版本 |
-|---|---|
-| [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fclear-plugin.svg)](https://www.npmjs.com/package/@codegenius/clear-plugin) |
-| [codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fquantity-plugin.svg)](https://www.npmjs.com/package/@codegenius/quantity-plugin) |
-| [codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Flighthouse-plugin.svg)](https://www.npmjs.com/package/@codegenius/lighthouse-plugin) |
-| [codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fdepcheck-plugin.svg)](https://www.npmjs.com/package/@codegenius/depcheck-plugin) |
-| [codegenius-create-plugin](https://github.com/FE-CodeGenius/codegenius-create-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fcreate-plugin.svg)](https://www.npmjs.com/package/@codegenius/create-plugin) |
-| [codegenius-git-user-plugin](https://github.com/FE-CodeGenius/codegenius-git-user-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fgit-user-plugin.svg)](https://www.npmjs.com/package/@codegenius/git-user-plugin) |
-| [codegenius-registry-plugin](https://github.com/FE-CodeGenius/codegenius-registry-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fregistry-plugin.svg)](https://www.npmjs.com/package/@codegenius/registry-plugin) |
-| [codegenius-hooks-plugin](https://github.com/FE-CodeGenius/codegenius-hooks-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fhooks-plugin.svg)](https://www.npmjs.com/package/@codegenius/hooks-plugin) |
+| 插件化模块 | 最新版本 | 描述 |
+|---|---|---|
+| [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fclear-plugin.svg)](https://www.npmjs.com/package/@codegenius/clear-plugin) | 运行 rimraf 删除不再需要的文件或文件夹 |
+| [codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fquantity-plugin.svg)](https://www.npmjs.com/package/@codegenius/quantity-plugin) | 运行 cloc 分析并统计代码量 |
+| [codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Flighthouse-plugin.svg)](https://www.npmjs.com/package/@codegenius/lighthouse-plugin) | 运行 lighthouse 分析及收集 Web 应用的性能指标 |
+| [codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fdepcheck-plugin.svg)](https://www.npmjs.com/package/@codegenius/depcheck-plugin) | 运行 depcheck 检查过时的、不正确的和未使用的依赖项 |
+| [codegenius-create-plugin](https://github.com/FE-CodeGenius/codegenius-create-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fcreate-plugin.svg)](https://www.npmjs.com/package/@codegenius/create-plugin) | 运行 npm create 快速创建基础项目 |
+| [codegenius-git-user-plugin](https://github.com/FE-CodeGenius/codegenius-git-user-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fgit-user-plugin.svg)](https://www.npmjs.com/package/@codegenius/git-user-plugin) | 设置或校验 git user 信息是否规范 |
+| [codegenius-registry-plugin](https://github.com/FE-CodeGenius/codegenius-registry-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fregistry-plugin.svg)](https://www.npmjs.com/package/@codegenius/registry-plugin) | 切换 NPM 镜像地址 |
+| [codegenius-hooks-plugin](https://github.com/FE-CodeGenius/codegenius-hooks-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fhooks-plugin.svg)](https://www.npmjs.com/package/@codegenius/hooks-plugin) | 新增或修改 simple-git-hooks 配置后需要重新初始化 |
