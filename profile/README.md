@@ -14,10 +14,12 @@
 -->
 
 ## 核心模块：
-[CodeGenius](https://github.com/FE-CodeGenius/CodeGenius)
+![npm](https://img.shields.io/npm/v/code-genius?label=CodeGenius&link=https%3A%2F%2Fgithub.com%2FFE-CodeGenius%2FCodeGenius)
 
-## 插件化模块：
-1. [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin)
-2. [codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin)
-3. [codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin)
-4. [codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin)
+| 插件化模块 | 最新版本 |
+|---|---|
+| [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin) | ![npm](https://img.shields.io/npm/v/%40codegenius%2Fclear-plugin) |
+| [codegenius-quantity-plugin](https://github.com/FE-CodeGenius/codegenius-quantity-plugin) | ![npm](https://img.shields.io/npm/v/%40codegenius%2Fquantity-plugin) |
+| [codegenius-lighthouse-plugin](https://github.com/FE-CodeGenius/codegenius-lighthouse-plugin) | ![npm](https://img.shields.io/npm/v/%40codegenius%2Flighthouse-plugin) |
+| [codegenius-depcheck-plugin](https://github.com/FE-CodeGenius/codegenius-depcheck-plugin) | ![npm](https://img.shields.io/npm/v/%40codegenius%2Fdepcheck-plugin) |
+
