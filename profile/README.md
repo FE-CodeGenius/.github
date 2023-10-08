@@ -4,7 +4,7 @@
 
 | 核心模块 | 最新版本 |
 |---|---|
-| [code-genius](https://github.com/FE-CodeGenius/CodeGeniusCodeGenius) | [![npm](https://img.shields.io/npm/v/code-genius.svg)](https://www.npmjs.com/package/code-genius) |
+| [code-genius](https://github.com/FE-CodeGenius/CodeGenius) | [![npm](https://img.shields.io/npm/v/code-genius.svg)](https://www.npmjs.com/package/code-genius) |
 
 | 插件化模块 | 最新版本 | 描述 |
 |---|---|---|
