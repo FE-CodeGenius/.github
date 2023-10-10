@@ -6,6 +6,8 @@
 |---|---|
 | [code-genius](https://github.com/FE-CodeGenius/CodeGenius) | [![npm](https://img.shields.io/npm/v/code-genius.svg)](https://www.npmjs.com/package/code-genius) |
 
+<img width="70%" src="https://picgo-2022.oss-cn-beijing.aliyuncs.com/202310101633260.png">
+
 | 插件化模块 | 最新版本 | 描述 |
 |---|---|---|
 | [codegenius-clear-plugin](https://github.com/FE-CodeGenius/codegenius-clear-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fclear-plugin.svg)](https://www.npmjs.com/package/@codegenius/clear-plugin) | 运行 rimraf 删除不再需要的文件或文件夹 |
