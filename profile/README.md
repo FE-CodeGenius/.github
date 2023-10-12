@@ -1,5 +1,8 @@
-## Hi there 👋
+## 🎄 Hi~ 大家好
 
+我是小鑫同学，资深 IT 从业者，InfoQ 的签约作者，擅长前端开发并在这一领域有多年的经验，致力于分享我在技术方面的见解和心得
+
+## 📦 核心模块
 这是一个旨在帮助开发者轻松管理优质代码的命令行开发包
 
 | 核心模块 | 最新版本 |
@@ -7,6 +10,8 @@
 | [code-genius](https://github.com/FE-CodeGenius/CodeGenius) | [![npm](https://img.shields.io/npm/v/code-genius.svg)](https://www.npmjs.com/package/code-genius) |
 
 <img width="70%" src="https://picgo-2022.oss-cn-beijing.aliyuncs.com/202310101633260.png">
+
+## 🔌 插件模块
 
 | 插件化模块 | 最新版本 | 描述 |
 |---|---|---|
@@ -23,7 +28,7 @@
 | [codegenius-format-plugin](https://github.com/FE-CodeGenius/codegenius-format-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fformat-plugin.svg)](https://www.npmjs.com/package/@codegenius/format-plugin) | 运行 prettier 格式化代码风格 |
 | [codegenius-impsort-plugin](https://github.com/FE-CodeGenius/codegenius-impsort-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fimpsort-plugin.svg)](https://www.npmjs.com/package/@codegenius/impsort-plugin) | 运行 eslint 对模块导入进行分组&按字母排序 |
 
-## 为我发电
+## 🌸 为我发电
 
 <img width="30%" src="https://picgo-2022.oss-cn-beijing.aliyuncs.com/202310121103329.jpeg">
 
