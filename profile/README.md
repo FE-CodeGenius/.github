@@ -23,3 +23,7 @@
 | [codegenius-format-plugin](https://github.com/FE-CodeGenius/codegenius-format-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fformat-plugin.svg)](https://www.npmjs.com/package/@codegenius/format-plugin) | 运行 prettier 格式化代码风格 |
 | [codegenius-impsort-plugin](https://github.com/FE-CodeGenius/codegenius-impsort-plugin) | [![npm](https://img.shields.io/npm/v/%40codegenius%2Fimpsort-plugin.svg)](https://www.npmjs.com/package/@codegenius/impsort-plugin) | 运行 eslint 对模块导入进行分组&按字母排序 |
 
+## 为我发电
+
+<img width="30%" src="https://picgo-2022.oss-cn-beijing.aliyuncs.com/202310121103329.jpeg">
+
